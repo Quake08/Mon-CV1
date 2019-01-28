@@ -1,6 +1,6 @@
 .page {
 width : 1654px ;
-height: 1900px;
+height: 1750px;
 border : black solid 5px;
 margin : auto  ;
 background: rgba(19, 1, 1, 0.555) ;
@@ -9,7 +9,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
 .cadre_gauche {  
-height: 1800px;
+height: 1688px;
 width: 500px;
 background : rgb(14, 63, 128) ; 
 float : left ; 
