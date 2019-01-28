@@ -1,0 +1,109 @@
+.page {
+width : 1654px ;
+height: 1900px;
+border : black solid 5px;
+margin : auto  ;
+background: rgba(19, 1, 1, 0.555) ;
+font-size : 30px ; 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; 
+}
+
+.cadre_gauche {  
+height: 1800px;
+width: 500px;
+background : rgb(14, 63, 128) ; 
+float : left ; 
+text-align: center ;
+border : 9px white solid;
+margin: 20px ;
+}
+
+    .cadre_gauche p ,h2,li 
+{color: white ;
+    P { line-height: 75% } 
+}
+    h2 {
+    font-size : 50px ;     
+}
+
+    #picturo {
+    position: relative;
+    overflow:hidden;
+    -webkit-border-radius:200px;
+    -moz-border-radius:200px;
+    border-radius:200px;
+    width:350px;
+    height:350px;
+    border : 9px white solid;
+    top: 25px; 
+}
+
+.cadre_droit .nom_grand {  
+    background : rgb(14, 63, 128);
+    color : white ;
+    float : left ; 
+    width:1030px;
+    height:auto; 
+    border : 9px white solid;
+margin: 20px ;
+    }
+    .cadre_droit .info_zero {  
+    background : rgb(14, 63, 128);
+    float : left ; 
+    width:1030px;
+    height:auto; 
+    border : 9px white solid;
+margin: 20px ;
+    }
+    .cadre_droit p, h2 {  
+        text-align: center
+        }
+
+
+        .cadre_droit .cadre_principal{  
+            background : rgb(14, 63, 128);
+            text-align : center ;
+           float: left;
+            width:600px;
+            text-align: right;
+            height:auto; }
+            
+
+
+    .cadre_droit .nom_grand {  
+        font-size : 50px ; 
+        font-weight : bolder;   
+        text-align: center ;
+        }
+
+    .info_secondaire { /*compétence*/
+        background :rgb(14, 63, 128);
+        border : 9px white solid;
+        float : left ; 
+        width:1030px;
+        height:auto;    
+        margin: 20px ;
+    }
+    .info_principal h2,li { /*Xp pro*/
+        margin: 20px ;  
+    
+    }
+    .info_principal { /*Xp pro cadre*/
+        background : rgb(14, 63, 128);
+        border : 9px white solid;
+        float : left ; 
+        width:1030px;
+        height:auto;    
+        margin: 20px ;
+    
+    
+    }
+
+    .langue { /*compétence*/
+        background :rgb(14, 63, 128);
+        border : 9px white solid;
+        float : left ; 
+        width:1030px;
+        height:auto;    
+        margin: 20px ; }
+  
