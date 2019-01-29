@@ -1,21 +1,21 @@
 .page {
-width : 1654px ;
-height: 1750px;
-border : black solid 5px;
+width : 827px ;
+height: 875px;
+border : black solid 2.5px;
 margin : auto  ;
 background: rgba(19, 1, 1, 0.555) ;
-font-size : 30px ; 
+font-size : 15px ; 
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; 
 }
 
 .cadre_gauche {  
-height: 1688px;
-width: 500px;
+height: 844px;
+width: 250px;
 background : rgb(14, 63, 128) ; 
 float : left ; 
 text-align: center ;
-border : 9px white solid;
-margin: 20px ;
+border : 4.5px white solid;
+margin: 10px ;
 }
 
     .cadre_gauche p ,h2,li 
@@ -23,37 +23,37 @@ margin: 20px ;
     P { line-height: 75% } 
 }
     h2 {
-    font-size : 50px ;     
+    font-size : 25px ;     
 }
 
     #picturo {
     position: relative;
     overflow:hidden;
-    -webkit-border-radius:200px;
-    -moz-border-radius:200px;
-    border-radius:200px;
-    width:350px;
-    height:350px;
-    border : 9px white solid;
-    top: 25px; 
+    -webkit-border-radius:100px;
+    -moz-border-radius:100px;
+    border-radius:100px;
+    width:175px;
+    height:175px;
+    border : 4.5px white solid;
+    top: 12.5px; 
 }
 
 .cadre_droit .nom_grand {  
     background : rgb(14, 63, 128);
     color : white ;
     float : left ; 
-    width:1030px;
+    width:515px;
     height:auto; 
-    border : 9px white solid;
-margin: 20px ;
+    border : 4.5px white solid;
+margin: 10px ;
     }
     .cadre_droit .info_zero {  
     background : rgb(14, 63, 128);
     float : left ; 
-    width:1030px;
+    width:515px;
     height:auto; 
-    border : 9px white solid;
-margin: 20px ;
+    border : 4.5px white solid;
+margin: 10px ;
     }
     .cadre_droit p, h2 {  
         text-align: center
@@ -64,46 +64,46 @@ margin: 20px ;
             background : rgb(14, 63, 128);
             text-align : center ;
            float: left;
-            width:600px;
+            width:300px;
             text-align: right;
             height:auto; }
             
 
 
     .cadre_droit .nom_grand {  
-        font-size : 50px ; 
+        font-size : 25px ; 
         font-weight : bolder;   
         text-align: center ;
         }
 
     .info_secondaire { /*compétence*/
         background :rgb(14, 63, 128);
-        border : 9px white solid;
+        border : 4.5px white solid;
         float : left ; 
-        width:1030px;
+        width:515px;
         height:auto;    
-        margin: 20px ;
+        margin: 10px ;
     }
     .info_principal h2,li { /*Xp pro*/
-        margin: 20px ;  
+        margin: 10px ;  
     
     }
     .info_principal { /*Xp pro cadre*/
         background : rgb(14, 63, 128);
-        border : 9px white solid;
+        border : 4.5px white solid;
         float : left ; 
-        width:1030px;
+        width:515px;
         height:auto;    
-        margin: 20px ;
+        margin: 10px ;
     
     
     }
 
     .langue { /*compétence*/
         background :rgb(14, 63, 128);
-        border : 9px white solid;
+        border : 4.5px white solid;
         float : left ; 
-        width:1030px;
+        width:515px;
         height:auto;    
-        margin: 20px ; }
+        margin: 10px ; }
   
